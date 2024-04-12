@@ -20,7 +20,6 @@ ListNode* CreateNode() {
 	printf("Newnode data?");
 	scanf("%s", newnode->data);
 	return newnode;
-
 }
 
 ListNode* SearchNode(HeadNode*L,char* x) {
