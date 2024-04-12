@@ -107,7 +107,6 @@ int* PrintNode(polynomial* node) {
         printf("node data");
         printf("%d\n", curr->coef);
         curr = curr->next;
-
         count++;
     }
     printf("COunt:%d\n", count);
