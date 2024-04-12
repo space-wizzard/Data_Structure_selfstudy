@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "파스칼 삼각형", "파스칼 삼각형\파스칼 삼각형.vcxproj", "{BBB21E3B-95B4-4C35-AFD8-CBD326FA2D3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB21E3B-95B4-4C35-AFD8-CBD326FA2D3E}.Debug|x64.ActiveCfg = Debug|x64
+		{BBB21E3B-95B4-4C35-AFD8-CBD326FA2D3E}.Debug|x64.Build.0 = Debug|x64
+		{BBB21E3B-95B4-4C35-AFD8-CBD326FA2D3E}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBB21E3B-95B4-4C35-AFD8-CBD326FA2D3E}.Debug|x86.Build.0 = Debug|Win32
+		{BBB21E3B-95B4-4C35-AFD8-CBD326FA2D3E}.Release|x64.ActiveCfg = Release|x64
+		{BBB21E3B-95B4-4C35-AFD8-CBD326FA2D3E}.Release|x64.Build.0 = Release|x64
+		{BBB21E3B-95B4-4C35-AFD8-CBD326FA2D3E}.Release|x86.ActiveCfg = Release|Win32
+		{BBB21E3B-95B4-4C35-AFD8-CBD326FA2D3E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B511D8-E1AD-4F19-85F4-498AA4E4B1B1}
+	EndGlobalSection
+EndGlobal
